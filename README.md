@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the frontend application of TDCX App.
+
+<a href="https://6388a316b3abb31675494006--nimble-quokka-c54505.netlify.app/">Live demo</a>
+
 
 ## Available Scripts
 
@@ -8,7 +11,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-<a href="https://6388a316b3abb31675494006--nimble-quokka-c54505.netlify.app/">Live demo</a>
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
