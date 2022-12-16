@@ -2,7 +2,7 @@
 
 This is the frontend application of TDCX App.
 
-<a href="https://6388a316b3abb31675494006--nimble-quokka-c54505.netlify.app/">Live demo</a>
+<a href="https://master--nimble-quokka-c54505.netlify.app/">Live demo</a>
 
 
 ## Available Scripts
