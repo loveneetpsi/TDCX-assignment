@@ -4,10 +4,13 @@ import Shell from './components/Shell'
 import Login from './container/Login'
 import Dashboard from './container/Dashboard'
 import ErrorPage from './container/ErrorPage'
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 function App() {
   return (
+    <>
     <Shell>
       <Router>
         <Routes>
@@ -17,6 +20,9 @@ function App() {
         </Routes>
       </Router>
     </Shell>
+    <ToastContainer/>
+    </>
+
   );
 }
 
